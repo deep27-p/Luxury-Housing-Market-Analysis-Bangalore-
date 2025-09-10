@@ -138,6 +138,7 @@ Configuration Preferences: Popularity of different property types
 Sales Channel Analysis: Effectiveness metrics by channel
 
 Sql query 
+
 Query 1: Quarterly Bookings by Micro-Market and Year
 Purpose: Analyzes quarterly booking patterns across different micro-markets over the years.
 Key Insights:
