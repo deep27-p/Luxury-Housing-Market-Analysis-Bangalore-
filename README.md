@@ -145,6 +145,7 @@ Identifies seasonal trends in property purchases
 Compares performance across different Bangalore micro-markets
 Shows which quarters have the highest booking activity
 Helps in understanding market seasonality and planning inventory
+
 Query 2: Average Ticket Price by Developer
 Purpose: Ranks developers by their average property prices.
 Key Insights:
@@ -152,6 +153,7 @@ Identifies premium vs. affordable developers
 Helps in positioning developers in the market
 Shows price differentiation strategies across developers
 Useful for competitive analysis and market positioning
+
 Query 3: Booking Success Rate by Amenity Score
 Purpose: Analyzes how amenity scores impact booking success rates.
 Key Insights:
@@ -159,6 +161,7 @@ Correlates amenity quality with booking success
 Shows the distribution of projects across amenity scores
 Helps in determining optimal amenity investment levels
 Identifies the amenity score sweet spot for maximum bookings
+
 Query 4: Booking Conversion Percentage by Micro-Market
 Purpose: Measures booking conversion rates across micro-markets.
 Key Insights:
@@ -166,6 +169,7 @@ Identifies high-converting micro-markets
 Shows the effectiveness of sales strategies in different areas
 Helps in resource allocation for sales teams
 Reveals market demand patterns across Bangalore
+
 Query 5: Booking Count by Configuration
 Purpose: Analyzes popularity of different property configurations.
 Key Insights:
@@ -173,12 +177,14 @@ Identifies most preferred property types (3BHK, 4BHK, etc.)
 Helps in inventory planning and development focus
 Shows customer preferences in the luxury housing segment
 Guides architectural design decisions for future projects
+
 Query 6: Sales Channel Distribution by Possession Status
 Purpose: Evaluates effectiveness of different sales channels.
 Key Insights:Shows which channels perform best for different project stages
 Helps in optimizing sales channel mix
 Reveals channel specialization (launch vs. ready properties)
 Guides marketing budget allocation
+
 Query 7: Total Purchases by Developer
 Purpose: Ranks developers by total number of purchases.
 Key Insights:
@@ -186,6 +192,7 @@ Identifies market leaders in terms of volume
 Shows developer market share
 Helps in understanding developer capacity and scale
 Useful for partnership and investment decisions
+
 Query 8: Transaction Type by Possession Status
 Purpose: Analyzes primary vs. secondary market transactions by possession status.
 Key Insights:
@@ -193,6 +200,7 @@ Shows the mix of investor vs. end-user purchases
 Reveals liquidity patterns in different project stages
 Helps in understanding investor behavior
 Guides pricing strategies for different project phases
+
 Query 9: Project Count and Total Sales by Micro-Market
 Purpose: Compares micro-markets by project count and total sales value.
 Key Insights:
@@ -200,6 +208,7 @@ Identifies high-value micro-markets
 Shows the relationship between project density and sales value
 Helps in market prioritization for expansion
 Reveals micro-markets with high-value projects
+
 Query 10: Top 5 Developers by Revenue
 Purpose: Identifies the top 5 developers by total revenue.
 Key Insights:
